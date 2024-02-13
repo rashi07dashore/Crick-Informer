@@ -43,6 +43,7 @@ export function app(): express.Express {
   return server;
 }
 
+//server side rendering --> perfomance achi ho jati hai, good for SEO
 function run(): void {
   const port = process.env['PORT'] || 4000;
 

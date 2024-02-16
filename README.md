@@ -19,7 +19,8 @@ Edit the application.properties file to configure the database connection and ot
 - `spring.datasource.password=password`
 - `spring.jpa.hibernate.ddl-auto=update`
 
-### Scheduled task interval in minutes
+### Scheduled task
+k interval in minutes
 `update.interval=1`
 
 
@@ -29,8 +30,11 @@ The application will start fetching live match updates and storing them in the d
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvement.
 
+![Point Table](https://github.com/rashi07dashore/Crick-Informer/assets/119104356/e361b253-5bd4-485f-9d7f-4c81191c9d8b)
+![Live Matches](https://github.com/rashi07dashore/Crick-Informer/assets/119104356/c9d5cefe-7310-4977-b5b6-2b9cc932a32a)
+![History Matches](https://github.com/rashi07dashore/Crick-Informer/assets/119104356/13b117dc-a654-4a9c-9e4b-26982175ac14)
 
-
+![Live Matches](https://github.com/rashi07dashore/Crick-Informer/assets/119104356/119e89ea-b8db-4377-8a2a-ac3677aad829)
 
 
 
